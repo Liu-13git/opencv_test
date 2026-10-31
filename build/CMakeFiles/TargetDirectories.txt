@@ -1,0 +1,3 @@
+/home/liu13/project1 .cpp/project/opencv_test/build/CMakeFiles/test.dir
+/home/liu13/project1 .cpp/project/opencv_test/build/CMakeFiles/edit_cache.dir
+/home/liu13/project1 .cpp/project/opencv_test/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liu13/project1 .cpp/project/opencv_test/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -g -o CMakeFiles/test.dir/test.cpp.o -c \"/home/liu13/project1 .cpp/project/opencv_test/test.cpp\"",
+  "file": "/home/liu13/project1 .cpp/project/opencv_test/test.cpp"
+}
+]
